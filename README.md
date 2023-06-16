@@ -1,4 +1,4 @@
 ## CALCULATOR
 <p align="center">
-This project is a sample for university web-page.
+This project is a calculator which also works in dark mode for eye-safety.
 </p>
